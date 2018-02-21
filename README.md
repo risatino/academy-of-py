@@ -82,7 +82,7 @@ As final considerations:
 * You must submit a link to your Jupyter Notebook with the viewable Data Frames. 
 * You must include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.  
 * You must include a written description of three observable trends based on the data. 
-* See [Example Solution](PyCitySchools/PyCitySchools_Example.pdf) for a reference on the expected format. 
+* See [Example Solution](Instructions/PyCitySchools_Example.pdf) for a reference on the expected format. 
 
 ## Copyright
 
