@@ -79,6 +79,4 @@
 
 ![Education](Images/education.jpg)
 
-## Copyright
-
 Coding Boot Camp (C) 2018. All Rights Reserved.
