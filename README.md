@@ -1,14 +1,18 @@
-# Unit 4 | Assignment - Pandas, Pandas, Pandas
+### Academy of Py
 
-## No.2: Academy of Py
+#### Three trends based on this dataset:
+
+1. School size and score results can have a negative effect on student performance. The larger the number of students, the lower success in grades.
+
+2. The budget per student and spending levels are negatively correlated with scores.
+
+3. Students from Charter schools perform better than students from District schools. The data shows a significant difference with the overall passing rate among students between Charter and District schools. The largest Charter school has much better scores than the smallest District school. This data only takes into consideration large District and small Charter school size so there is probably a discrepancy with the two types of schools.
 
 ![Education](Images/education.jpg)
 
-Your final report should include each of the following:
-
 **District Summary**
 
-* Create a high level snapshot (in table form) of the district's key metrics, including:
+* District's key metrics, including:
   * Total Schools
   * Total Students
   * Total Budget
@@ -20,7 +24,7 @@ Your final report should include each of the following:
 
 **School Summary**
 
-* Create an overview table that summarizes key metrics about each school, including:
+* Overview table summarizing key metrics about each school, including:
   * School Name
   * School Type
   * Total Students
@@ -34,7 +38,7 @@ Your final report should include each of the following:
 
 **Top Performing Schools (By Passing Rate)**
 
-* Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
+* Top 5 performing schools based on Overall Passing Rate:
   * School Name
   * School Type
   * Total Students
@@ -48,19 +52,19 @@ Your final report should include each of the following:
 
 **Top Performing Schools (By Passing Rate)**
 
-* Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
+* This table highlights the bottom 5 performing schools based on Overall Passing Rate. Includes all of the same metrics as above.
 
 **Math Scores by Grade**
 
-* Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* This table lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 **Reading Scores by Grade**
 
-* Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* This table lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 **Scores by School Spending**
 
-* Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+* This table breaks down school performances based on average Spending Ranges (Per Student). Includes the following:
   * Average Math Score
   * Average Reading Score
   * % Passing Math
@@ -69,20 +73,11 @@ Your final report should include each of the following:
 
 **Scores by School Size**
 
-* Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+* This table groups schools based on a reasonable approximation of school size (Small, Medium, Large).
 
 **Scores by School Type**
 
-* Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
-
-As final considerations:
-
-* Your script must work for both data-sets given.
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames. 
-* You must include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.  
-* You must include a written description of three observable trends based on the data. 
-* See [Example Solution](Instructions/PyCitySchools_Example.pdf) for a reference on the expected format. 
+* This table groups schools based on school type (Charter vs. District).
 
 ## Copyright
 
