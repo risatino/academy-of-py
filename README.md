@@ -8,8 +8,6 @@
 
 3. Students from Charter schools perform better than students from District schools. The data shows a significant difference with the overall passing rate among students between Charter and District schools. The largest Charter school has much better scores than the smallest District school. This data only takes into consideration large District and small Charter school size so there is probably a discrepancy with the two types of schools.
 
-![Education](Images/education.jpg)
-
 **District Summary**
 
 * District's key metrics, including:
@@ -78,6 +76,8 @@
 **Scores by School Type**
 
 * This table groups schools based on school type (Charter vs. District).
+
+![Education](Images/education.jpg)
 
 ## Copyright
 
