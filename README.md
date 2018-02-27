@@ -1402,3 +1402,11 @@ chart_vs_dist_df
 ```python
 
 ```
+
+#### Specs:
+
+* This is an overview analysis of large high schools using a Python Data Analysis Library called [Pandas](http://pandas.pydata.org/).
+
+* The Data Source is based on two CSV files provided in the **raw_data** folder and outputs a series of reports to analyze key factors in test score results across a district including charter schools.
+
+* Dataframes are used to parse the records. (i.e. ```pd.DataFrame```)
