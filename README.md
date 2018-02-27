@@ -8,7 +8,7 @@
 
 3. Students from Charter schools perform better than students from District schools. The data shows a significant difference with the overall passing rate among students between Charter and District schools. The largest Charter school has much better scores than the smallest District school. This data only takes into consideration large District and small Charter school size so there is probably a discrepancy with the two types of schools.
 
-# Taking into consideration the following:
+#### Taking into consideration the following:
 * My passing score and definition of a passing rate is an assumption. I decided to set it at a score of 65 based on Google's top search results for American High Schools. I did not look up Charter or District school categories. 
 
 ```python
@@ -39,7 +39,7 @@ school.head()
 ```
 
 <div>
-<style>
+<!-- <style>
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -51,7 +51,7 @@ school.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+</style> -->
 
 <table border="1" class="dataframe">
   <thead>
