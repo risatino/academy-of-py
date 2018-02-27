@@ -39,7 +39,7 @@ school.head()
 ```
 
 <div>
-<!-- <style>
+<style>
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -51,7 +51,7 @@ school.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style> -->
+</style>
 
 <table border="1" class="dataframe">
   <thead>
